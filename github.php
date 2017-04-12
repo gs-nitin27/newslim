@@ -1,6 +1,6 @@
 <?php 
 
 `git pull`; 
-echo "pull code";
+echo "pull code and pull";
 
 ?>
