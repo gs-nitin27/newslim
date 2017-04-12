@@ -1,4 +1,6 @@
-<?php //`git pull`; 
+<?php 
+
+`git pull`; 
 echo "pull code";
 
 ?>
