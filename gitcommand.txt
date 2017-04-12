@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+echo "Hello World!"
+
+cd /home/getsport/public_html/newslim/ && git pull origin master
