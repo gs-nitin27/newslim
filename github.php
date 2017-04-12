@@ -1,4 +1,3 @@
-<?php `git pull origin master`; 
-echo "pull code and pull";
-
+<?php
+shell_exec('git pull origin master');
 ?>
